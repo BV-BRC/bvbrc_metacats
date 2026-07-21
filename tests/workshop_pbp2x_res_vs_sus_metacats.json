@@ -1,0 +1,12 @@
+{
+  "output_file": "workshop_pbp2x_res_vs_sus_metacats",
+  "output_path": "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS",
+  "alphabet": "aa",
+  "p_value": 0.05,
+  "input_type": "groups",
+  "groups": [
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/Pbp2x private gene",
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/Susceptible Pbp2x",
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/Resistant Pbp2x"
+  ]
+}

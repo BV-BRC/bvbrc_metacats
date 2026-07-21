@@ -1,0 +1,11 @@
+{
+  "p_value": 0.05,
+  "groups": [
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/PBP2x Susceptible Amox",
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/PBP2X Resistant Amoxicillin"
+  ],
+  "input_type": "groups",
+  "output_file": "workshop_pbp2x_res_and_sus_amoxicillin",
+  "alphabet": "aa",
+  "output_path": "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS"
+}
