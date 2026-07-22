@@ -1,9 +1,9 @@
 {
     "p_value": 0.05,
-    "output_path": "/jsporter@patricbrc.org/home/MetaCATS",
+    "output_path": "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS",
     "output_file": "windows_input",
-    "alignment_file": "/jsporter@patricbrc.org/JSP_debug/aniewiad1/11_nucleocapsid_align_nostop.fasta",
-    "group_file": "/jsporter@patricbrc.org/JSP_debug/aniewiad1/11_nucleocapsid_align_nostop.tsv",
+    "alignment_file": "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/11_nucleocapsid_align_nostop.fasta",
+    "group_file": "/olson@patricbrc.org/PATRIC-QA/applications/App-MetaCATS/11_nucleocapsid_align_nostop.tsv",
     "alphabet": "na",
     "input_type": "files"
 }
